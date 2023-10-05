@@ -18,7 +18,6 @@ This website provides a variety of business templates that users can choose from
 4. If you like a template, click on the 'Use This Template' button.
 5. The template will be downloaded to your device, and you can customize it as per your business needs.
 
-## Support
-If you encounter any issues or have any questions, please contact our support team at support@yourwebsite.com.
+
 
 
